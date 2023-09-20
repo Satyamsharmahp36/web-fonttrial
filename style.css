@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+  font-family: 'Font Name', Poppins;
+}
+#css {
+  font-variant: small-caps;
+  font-weight: 700;
+  font-style: italic
+}
+p {
+  font-size: 15px;
+}
